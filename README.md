@@ -1,3 +1,3 @@
 # TheBiasPlanet
-The Bias Planet
-See http://thebiasplanet.blogspot.com/
+The Bias Planet.
+See http://thebiasplanet.blogspot.com/.
