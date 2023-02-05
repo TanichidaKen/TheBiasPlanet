@@ -28,6 +28,12 @@
 <loc>https://raw.githubusercontent.com/TanichidaKen/TheBiasPlanet/master/ToDisentangleConfusingTermsOrDiscoursesSitemap.xml</loc>
 </sitemap>
 <sitemap>
+<loc>https://raw.githubusercontent.com/TanichidaKen/TheBiasPlanet/master/DefinitionsAndPropositionsSitemap.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://raw.githubusercontent.com/TanichidaKen/TheBiasPlanet/master/UnoDispatchCommandsSitemap.xml</loc>
+</sitemap>
+<sitemap>
 <loc>https://raw.githubusercontent.com/TanichidaKen/TheBiasPlanet/master/InformationTablesSitemap.xml</loc>
 </sitemap>
 </sitemapindex>
