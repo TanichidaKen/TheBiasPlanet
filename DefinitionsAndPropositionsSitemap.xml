@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
 <loc>https://thebiasplanet.blogspot.com/2023/02/thetableofcontentsoftheseriesdefinitionsandpropositions.html</loc>
-<lastmod>2023-08-27T20:06:03</lastmod>
+<lastmod>2023-09-03T19:33:24</lastmod>
 <xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2023/02/thetableofcontentsoftheseriesdefinitionsandpropositions.html"/>
 <xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2023/02/thetableofcontentsoftheseriesdefinitionsandpropositions.html"/>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2023/02/thetableofcontentsoftheseriesdefinitionsandpropositions.html"/>
@@ -23,7 +23,7 @@
 </url>
 <url>
 <loc>https://thebiasplanet.blogspot.com/2022/01/alistofpropositions.html</loc>
-<lastmod>2023-08-27T19:58:23</lastmod>
+<lastmod>2023-09-03T19:31:58</lastmod>
 <xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2022/01/alistofpropositions.html"/>
 <xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2022/01/alistofpropositions.html"/>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2022/01/alistofpropositions.html"/>
@@ -2480,16 +2480,51 @@
 </url>
 <url>
 <loc>https://thebiasplanet.blogspot.com/2023/08/complementofnowheredensesubsetisdense.html</loc>
-<lastmod>2023-08-24T21:33:42</lastmod>
+<lastmod>2023-08-27T21:13:11</lastmod>
 <xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2023/08/complementofnowheredensesubsetisdense.html"/>
 <xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2023/08/complementofnowheredensesubsetisdense.html"/>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2023/08/complementofnowheredensesubsetisdense.html"/>
 </url>
 <url>
 <loc>https://thebiasplanet.blogspot.com/2023/08/complementofopendensesubsetisnowheredense.html</loc>
-<lastmod>2023-08-24T23:46:42</lastmod>
+<lastmod>2023-09-03T19:31:47</lastmod>
 <xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2023/08/complementofopendensesubsetisnowheredense.html"/>
 <xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2023/08/complementofopendensesubsetisnowheredense.html"/>
 <xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2023/08/complementofopendensesubsetisnowheredense.html"/>
+</url>
+<url>
+<loc>https://thebiasplanet.blogspot.com/2023/09/formetricspacedistancebetweenpointsin2openballsislargerthandistancebetweencentersminussumofradiiandsmallerthandistancebetweencentersplussumofradii.html</loc>
+<lastmod>2023-09-03T19:31:48</lastmod>
+<xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2023/09/formetricspacedistancebetweenpointsin2openballsislargerthandistancebetweencentersminussumofradiiandsmallerthandistancebetweencentersplussumofradii.html"/>
+<xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2023/09/formetricspacedistancebetweenpointsin2openballsislargerthandistancebetweencentersminussumofradiiandsmallerthandistancebetweencentersplussumofradii.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2023/09/formetricspacedistancebetweenpointsin2openballsislargerthandistancebetweencentersminussumofradiiandsmallerthandistancebetweencentersplussumofradii.html"/>
+</url>
+<url>
+<loc>https://thebiasplanet.blogspot.com/2023/09/forsubsetoftopologicalspaceclosureofsubsetminussubsethasemptyinterior.html</loc>
+<lastmod>2023-09-03T19:31:49</lastmod>
+<xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2023/09/forsubsetoftopologicalspaceclosureofsubsetminussubsethasemptyinterior.html"/>
+<xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2023/09/forsubsetoftopologicalspaceclosureofsubsetminussubsethasemptyinterior.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2023/09/forsubsetoftopologicalspaceclosureofsubsetminussubsethasemptyinterior.html"/>
+</url>
+<url>
+<loc>https://thebiasplanet.blogspot.com/2023/09/subsetof1stcategorysubsetisof1stcategory.html</loc>
+<lastmod>2023-09-03T19:31:50</lastmod>
+<xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2023/09/subsetof1stcategorysubsetisof1stcategory.html"/>
+<xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2023/09/subsetof1stcategorysubsetisof1stcategory.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2023/09/subsetof1stcategorysubsetisof1stcategory.html"/>
+</url>
+<url>
+<loc>https://thebiasplanet.blogspot.com/2023/09/supersetofresidualsubsetisresidual.html</loc>
+<lastmod>2023-09-03T19:31:51</lastmod>
+<xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2023/09/supersetofresidualsubsetisresidual.html"/>
+<xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2023/09/supersetofresidualsubsetisresidual.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2023/09/supersetofresidualsubsetisresidual.html"/>
+</url>
+<url>
+<loc>https://thebiasplanet.blogspot.com/2023/09/cinftyvectorsfieldonregularsubmanifoldiscinftyasvectorsfieldalongregularsubmanifoldonsupermanifold.html</loc>
+<lastmod>2023-09-03T19:31:52</lastmod>
+<xhtml:link rel="alternate" hreflang="en" href="https://thebiasplanet.blogspot.com/2023/09/cinftyvectorsfieldonregularsubmanifoldiscinftyasvectorsfieldalongregularsubmanifoldonsupermanifold.html"/>
+<xhtml:link rel="alternate" hreflang="ja" href="https://thebiasplanetinjapanese.blogspot.com/2023/09/cinftyvectorsfieldonregularsubmanifoldiscinftyasvectorsfieldalongregularsubmanifoldonsupermanifold.html"/>
+<xhtml:link rel="alternate" hreflang="x-default" href="https://thebiasplanet.blogspot.com/2023/09/cinftyvectorsfieldonregularsubmanifoldiscinftyasvectorsfieldalongregularsubmanifoldonsupermanifold.html"/>
 </url>
 </urlset>
